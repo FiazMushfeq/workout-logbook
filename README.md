@@ -8,14 +8,8 @@ A simple and powerful workout logging application built with the **MERN stack** 
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -50,3 +44,7 @@ A simple and powerful workout logging application built with the **MERN stack** 
    git clone https://github.com/yourusername/workout-logger.git
    cd workout-logger
    ```
+
+## License
+
+This project is licensed under the terms of the [MIT License](LICENSE).
